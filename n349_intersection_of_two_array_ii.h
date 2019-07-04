@@ -1,10 +1,10 @@
-#ifndef N305_INTERSECTION_OF_TWO_ARRAY_II_H
-#define N305_INTERSECTION_OF_TWO_ARRAY_II_H
+#ifndef N349_INTERSECTION_OF_TWO_ARRAY_II_H
+#define N349_INTERSECTION_OF_TWO_ARRAY_II_H
 
 #include "bits/stdc++.h"
 using namespace std;
 
-namespace n305
+namespace n349
 {
 
 class Solution
@@ -41,4 +41,4 @@ public:
 }
 
 
-#endif // N305_INTERSECTION_OF_TWO_ARRAY_II_H
+#endif // N349_INTERSECTION_OF_TWO_ARRAY_II_H

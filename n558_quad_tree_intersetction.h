@@ -1,10 +1,10 @@
-#ifndef N588_QUAD_TREE_INTERSETCTION_H
-#define N588_QUAD_TREE_INTERSETCTION_H
+#ifndef N558_QUAD_TREE_INTERSETCTION_H
+#define N558_QUAD_TREE_INTERSETCTION_H
 
 #include <bits/stdc++.h>
 using namespace std;
 
-namespace n588
+namespace n558
 {
 
 class Node
@@ -90,4 +90,4 @@ public:
 
 }
 
-#endif // N588_QUAD_TREE_INTERSETCTION_H
+#endif // N558_QUAD_TREE_INTERSETCTION_H

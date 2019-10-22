@@ -1,5 +1,5 @@
-#ifndef n690_EMPLOYEE_INPORTANCE_H
-#define n690_EMPLOYEE_INPORTANCE_H
+#ifndef N690_EMPLOYEE_INPORTANCE_H
+#define N690_EMPLOYEE_INPORTANCE_H
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -51,4 +51,4 @@ public:
 
 }
 
-#endif // n690_EMPLOYEE_INPORTANCE_H
+#endif // N690_EMPLOYEE_INPORTANCE_H

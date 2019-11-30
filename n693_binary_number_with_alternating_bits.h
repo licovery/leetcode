@@ -16,24 +16,18 @@ public:
         {
             return false;
         }
-        int last = n & 1;
+        int cur = n & 1;
         n = n >> 1;
         while (n)
         {
-            int curBit = getLastBit(n);
-            if (last ^ (n & 1) == 0)
+            if (cur == (n & 1))
             {
                 return false;
             }
             n = n >> 1;
-            last = n & 1;
+            cur = n & 1;
         }
         return true;
-    }
-private:
-    int getLastBit(int n)
-    {
-        return ;
     }
 };
 

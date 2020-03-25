@@ -3,7 +3,7 @@
 
 #include<bits/stdc++.h>
 
-namespace n563
+namespace n669
 {
 
 struct TreeNode

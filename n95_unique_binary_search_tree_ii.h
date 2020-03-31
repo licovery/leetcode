@@ -19,6 +19,7 @@ public:
 
     }
 private:
+    // 这里采用了归并排序的思想，分治法。先递归，再合并
     vector<TreeNode *> genTree(int s, int e)
     {
         vector<TreeNode *> res;

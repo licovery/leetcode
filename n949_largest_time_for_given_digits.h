@@ -19,6 +19,7 @@ public:
         }
         return toStr(res);
     }
+
 private:
     void arrangement(int step)
     {

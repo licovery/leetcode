@@ -1,4 +1,5 @@
-*.cpp
+main.cpp
+test.cpp
 *.pro
 *.user
 *.pri

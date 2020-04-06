@@ -4,3 +4,5 @@ test.cpp
 *.user
 *.pri
 *GTest.pro.user*
+.vscode
+*.exe

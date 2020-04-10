@@ -1,9 +1,8 @@
-main.cpp
-test.cpp
+*.cpp
 *.pro
 *.user
 *.pri
-*GTest.pro.user*
 .vscode
 *.exe
 *.sh
+*.txt

@@ -6,3 +6,4 @@ test.cpp
 *GTest.pro.user*
 .vscode
 *.exe
+*.sh
